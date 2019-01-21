@@ -1,8 +1,9 @@
 # Pediatric Treatment Pathways
 
-## Visualization
-## Foo BAr
+## Treatment Pathway Visualizations
+## Capped Cohorts
 ### [Asthma Capped, Greater Than Ten](./Asthma_Capped_greaterThanTen.html)
+## Uncapped Cohorts
 
 <hr/>
 
