@@ -1,4 +1,10 @@
-## Pediatric Treatment Pathways
+# Pediatric Treatment Pathways
+
+## Visualization
+
+### [Asthma Capped, Greater Than Ten](./Asthma_Capped_greaterThanTen.html)
+
+<hr/>
 
 Publicly viewable pages based on a GitHub repo can go in the gh-pages 
 branch, or in the master branch, from master:/ or from master:/doc.
@@ -10,12 +16,7 @@ I don't have permission as a collaborator to change the settings on
 github.com/mgkahn/Pediatric_Treatment_Pathways. So I forked it to my 
 own account to demonstrate.
 
-## Visualization
-
-[Asthma Capped, Greater Than Ten](./Asthma_Capped_greaterThanTen.html)
-
 <hr/>
-
 
 ## Some instructions from GitHub on using GitHub Pages and Markdown
 
