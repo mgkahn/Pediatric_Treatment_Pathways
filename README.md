@@ -2,11 +2,11 @@
 
 ## Public Site
 
-### [Asthma Capped, Greater Than Ten](http://sigfried.github.io/Pediatric_Treatment_Pathways/Asthma_Capped_greaterThanTen.html)
+### [Asthma Capped, Greater Than Ten](http://mgkahn.github.io/Pediatric_Treatment_Pathways/Asthma_Capped_greaterThanTen.html)
 
 <hr/>
 
-### [README on github.io (gh-pages) site](http://sigfried.github.io/Pediatric_Treatment_Pathways)
+### [README on github.io (gh-pages) site](http://mgkahn.github.io/Pediatric_Treatment_Pathways)
 
 Publicly viewable pages based on a GitHub repo can go in the gh-pages 
 branch, or in the master branch, from master:/ or from master:/doc.
@@ -22,7 +22,7 @@ own account to demonstrate.
 
 ## Some instructions from GitHub on using GitHub Pages and Markdown
 
-You can use the [editor on GitHub](https://github.com/Sigfried/Pediatric_Treatment_Pathways/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/mgkahn/Pediatric_Treatment_Pathways/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -52,7 +52,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sigfried/Pediatric_Treatment_Pathways/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgkahn/Pediatric_Treatment_Pathways/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
