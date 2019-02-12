@@ -3,7 +3,7 @@
 ## Public Site
 ## Pediatric Treatment Pathway Visualizations
 ## Capped Cohorts
-### [Asthma Capped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/asthma_aapped_inout.html)
+### [Asthma Capped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/asthma_capped_inout.html)
 ## Uncapped Cohorts
 
 <hr/>
