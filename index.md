@@ -2,7 +2,7 @@
 
 ## Treatment Pathway Visualizations
 ## Capped Cohorts
-### [Asthma Capped, Greater Than Ten](./Asthma_Capped_greaterThanTen.html)
+### [Asthma Capped, Greater Than Four](./asthma_capped_inout.html)
 ## Uncapped Cohorts
 
 <hr/>
