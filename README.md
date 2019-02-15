@@ -9,9 +9,9 @@
 * ## Uncapped Cohorts
   * ### [Asthma Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/asthma_uncapped_inout.html)
   * ### [Depression Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_uncapped_inout.html)
-  * ### [Epilepsy Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/epilepsy_uncapped_inout.html)
+  * ### [Epilepsy Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_original_OHDSI.html)
 * ## Original OHDSI method
-  * ### [Depression original OHDSI methodology](http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_original_OHDSI.html)
+  * ### [Depression original OHDSI methodology]()
 
 <hr/>
 
@@ -27,7 +27,7 @@ I don't have permission as a collaborator to change the settings on
 github.com/mgkahn/Pediatric_Treatment_Pathways. So I forked it to my 
 own account to demonstrate.
 
-<hr/>
+<hr/>http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_original_OHDSI.html
 
 ## Some instructions from GitHub on using GitHub Pages and Markdown
 
