@@ -11,7 +11,7 @@
   * ### [Depression Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_uncapped_inout.html)
   * ### [Epilepsy Uncapped, Greater Than Four](http://mgkahn.github.io/Pediatric_Treatment_Pathways/epilepsy_uncapped_inout.html)
 * ## Original OHDSI method
-  * ### [Depression original OHDSI methodology] (http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_original_OHDSI.html)
+  * ### [Depression original OHDSI methodology](http://mgkahn.github.io/Pediatric_Treatment_Pathways/depression_original_OHDSI.html)
 
 <hr/>
 
